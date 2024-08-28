@@ -1,0 +1,6 @@
+ibm-watson
+flask
+numpy
+pandas
+matplotlib
+scikit-learn
